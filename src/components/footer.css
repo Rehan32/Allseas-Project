@@ -1,0 +1,27 @@
+
+#footer-section{
+  padding-top: 100px;
+  padding-bottom: 35px;
+}
+
+.container-fluid img{
+  margin-bottom: 20px;
+}
+
+#footer-button{
+  background-color: rgb(255,140,0);
+  padding: 15px 30px;
+}
+
+.bi-telephone-fill{
+  margin-right: 10px;
+}
+
+.bi-envelope-fill,.bi-clock{
+  margin-right: 10px;
+  color: rgb(240,124,52);
+}
+
+.container-fluid hr{
+  color: rgb(255, 255, 255);
+}

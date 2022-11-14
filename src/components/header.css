@@ -1,0 +1,31 @@
+.navbar{
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav{
+  margin-left: 250px;
+}
+
+.container-fluid img{
+  margin-bottom: 0;
+}
+
+#active{
+  color: rgb(255,136,76);
+}
+
+.bi-whatsapp{
+  margin-right: 8px;
+}
+
+.nav-item{
+  margin-left: 12px;
+}
+
+.collapse button{
+  margin-right: 120px;
+}
+
+.navbar-brand img{
+  margin-left: 120px;
+}

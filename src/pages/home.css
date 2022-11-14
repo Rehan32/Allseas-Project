@@ -1,0 +1,146 @@
+.carousel slide{
+  font-family: 'Roboto', sans-serif;
+}
+
+.carousel-inner img{
+  height: 600px;
+}
+
+.carousel-inner h5{
+  font-weight: 700;
+  font-size: 60px;
+}
+
+.img-move-wrapper {
+  position:relative;
+  overflow:hidden;
+  /* margin:0 auto; */
+}
+
+.img-move-1{
+  width: 70%;
+  margin-top: 100px;
+}
+
+.img-move-2{
+  width: 330px;
+  margin-top: -630px;
+  margin-left: 250px;
+  border: 20px solid white;
+}
+
+#filler{
+  background-color: rgb(1,65,78);
+  height: 530px;
+  width: 350px;
+  margin-top: -850px;
+  margin-bottom: 100px;
+  margin-left: 155px;
+}
+
+#offerings-section{
+  margin-bottom: 130px;
+}
+
+.col h5{
+  margin-top: 70px;
+}
+
+.bi-truck-front-fill{
+  color: rgb(240,124,52);
+  margin-right: 7px;
+}
+
+.col h2{
+  margin-bottom: 15px;
+}
+
+.col p{
+  text-align: justify;
+}
+
+#inner-row{
+  margin-top: 40px;
+}
+
+#check-color{
+  color: rgb(240,124,52);
+}
+
+#check-color2{
+  color: rgb(33, 33, 33);
+}
+
+.bi-check-circle-fill{
+  margin-right: 10px;
+}
+
+#mid-button{
+  margin-top: 25px;
+  padding: 12px 40px;
+  background-color: rgb(1,65,78);
+  color: white;
+}
+
+/* middle image section */
+
+.ship-img-container{
+  color: white;
+  height: 35vh;
+  text-align: center;
+  background-size: cover;
+}
+
+.ship-img-container h4{
+  padding-top: 110px;
+}
+
+.ship-img-container h6{
+  padding-top: 10px;
+}
+
+/* last section */
+
+#last-section{
+  background-repeat: no-repeat;
+  /* style={{backgroundImage:"url('./images/dotted-globe-removebg-preview.png')"}} */
+}
+
+#last-section-container{
+  padding: 130px 80px;
+  /* background-color: rgba(0, 0, 0, 0.6); */
+}
+
+.row.gy-3{
+  margin-top: 30px;
+}
+
+.bi-check{
+  font-size: 25px;
+}
+
+#last-section-container hr{
+  color: rgb(47, 47, 47);
+  margin-top: -12px;
+  margin-bottom: -5px;
+}
+
+#last-section-b label{
+  margin-top: 5px;
+  padding: 5px;
+}
+
+#last-section-b input{
+  padding: 10px;
+}
+
+#last-section-b textarea{
+  margin-top: 6px;
+}
+
+#last-section-b button{
+  color: white;
+  margin-top: 10px;
+  background-color: rgb(240,130,73);
+  width: 100%;
+}
